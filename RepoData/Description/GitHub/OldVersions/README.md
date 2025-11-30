@@ -1,0 +1,1 @@
+🍬️🎮️💾️🌐️ The official source repository for the website of the SugarShop project, SugarShop is an open-source remake/remaster of the BreakTime Studios mobile game Sweet Shop. It is a mod of MobilePotions 
